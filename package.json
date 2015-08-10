@@ -1,0 +1,14 @@
+{
+  "name": "delete_ref",
+  "version": "0.0.1",
+  "description": "deleting firebase ref and calculating time for deletion",
+  "main": "app.js",
+  "dependencies": {
+    "exectimer": "^1.0.2",
+    "firebase": "^2.2.9",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}
