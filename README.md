@@ -3,6 +3,9 @@ Deleting firebase reference and calculating time in this process
 
 Setup:
 
+Pre-requisites:
+Install node, npm and git
+
 1) Create a folder in your workspace and navigate to it, then run: 
    git clone https://github.com/vaibhav-khandelwal/delete_ref.git
   
